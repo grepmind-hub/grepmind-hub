@@ -1,5 +1,5 @@
 GrepMind
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
 
 AI-Native Software, Automation & Cloud Engineering
 
